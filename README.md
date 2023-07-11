@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Patrick Halim
-- 👀 I’m interested making technology with a strong postiive social impact
+- 👀 I desire to use technology for strong positive social impact
 - 💻 Check out my portfolio website [here](https://pnhalim.github.io/)
 - 📫 How to reach me: [pnhalim@umich.edu](pnhalim@umich.edu) or [LinkedIn](https://www.linkedin.com/in/patrick-halim/) 
