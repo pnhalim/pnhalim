@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/patrick-halim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
