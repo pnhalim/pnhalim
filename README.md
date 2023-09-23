@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patrick Halim
-- 👀 I desire to use technology for strong positive social impact
-- 💻 Check out my portfolio website [here](https://pnhalim.github.io/)
-- 📫 How to reach me: [pnhalim@umich.edu](pnhalim@umich.edu) or [LinkedIn](https://www.linkedin.com/in/patrick-halim/) 
+<div id="header" align="center">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
+</div>
+
