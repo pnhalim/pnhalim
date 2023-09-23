@@ -50,9 +50,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-
-### My Strengths
-- I take initiative
-- I love to learn
-- I am systematic
-- I enjoy collaboration
