@@ -19,9 +19,10 @@
 ## About Me
 **I am passionate about developing technologies that will help people and make a big impact**. I'm currently a Computer Science student at the University of Michigan, and I am always seeking new things to learn, ways to grow, and projects to work on. Some of my past projects are:
 - [Developing augmented reality for NASA astronauts 🚀](https://github.com/CLAWS-UMICH/NOVA-2022-2023)
-- [Recreating LinkedIn, but for foodies 😋](https://github.com/pnhalim/linkedin-clone)
+- [Reimagining cooking with augmented reality 🤯](https://devpost.com/software/cosmocook)
 - [Building a mobile app for exercise 💪](https://pnhalim.wixsite.com/move-ar)
 - [Enabling raw data visualization for autonomous car parking 🚗](https://pnhalim.github.io/pages/projects/bosch-2023)
+- [Recreating LinkedIn, but for foodies 😋](https://github.com/pnhalim/linkedin-clone)
 - [Researching HoloLens usability in varied ambient lighting 👨‍🔬](https://pnhalim.github.io/pages/projects/ar-research)
 
 ### My Skills
